@@ -18,9 +18,14 @@ More details about the theory and code analysis can be found in the report.
 - Open Serial Monitor to see greeting messages.
 - Pass an object as shown in Demo Video.
 
-## Contribute
+## How to Contribute?
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Create a branch with issue as the branch name and create a pull request with detailed issue in description. 
+
+
+## Issues
+For major changes, you are welcome to open an issue to discuss what you would like to change. Enhancements will be appreciated. 
 
 <br>
 
