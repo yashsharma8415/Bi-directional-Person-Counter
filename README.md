@@ -4,6 +4,24 @@ A bi-directional person counter is a device which can be used to monitor the num
 
 More details about the theory and code analysis can be found in the report.
 
+## Circuit Images
+
+![Picture2](https://user-images.githubusercontent.com/65597694/120595699-72641c00-c460-11eb-80ac-912bdfe6f56f.jpg)
+![Picture3](https://user-images.githubusercontent.com/65597694/120595705-73954900-c460-11eb-9553-3a88a9f71c85.jpg)
+![Picture4](https://user-images.githubusercontent.com/65597694/120595706-73954900-c460-11eb-96b9-d8d9c777d9a1.jpg)
+![Picture5](https://user-images.githubusercontent.com/65597694/120595710-742ddf80-c460-11eb-82f1-e05a7c7c317a.jpg)
+
+## How to use?
+
+- Set up the circuit as shown in circuit diagram.
+- Upload Arduino_Code in the arduino.
+- Open Serial Monitor to see greeting messages.
+- Pass an object as shown in Demo Video.
+
+## Contribute
+
+Create a branch with issue as the branch name and create a pull request with detailed issue in description. 
+
 <br>
 
 <p align = "center">
